@@ -1,0 +1,4 @@
+[+] Added 17.00 Fortnite Support
+[+] Added new faster dll and backend 
+-----------------------------------------------------------------
+Made by Wixyy
